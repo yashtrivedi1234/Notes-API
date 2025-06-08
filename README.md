@@ -2,6 +2,8 @@
 
 A simple RESTful API for creating, reading, updating, and deleting notes built with **Node.js**, **Express.js**, and **MongoDB** using **Mongoose**.
 
+## Live Link: https://notes-api-gqds.onrender.com
+
 ## Features
 
 - Create a new note with title and content
