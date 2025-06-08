@@ -32,6 +32,7 @@ A simple RESTful API for creating, reading, updating, and deleting notes built w
 | DELETE | `/notes/:id`     | Delete a note by ID    |
 
 
+## Screen Shots
 
-<img width="1470" alt="Screenshot 2025-06-08 at 10 34 27 AM" src="https://github.com/user-attachments/assets/49b6e703-4600-4350-ae64-74aa1f2bc298" />
+<img width="1470" alt="Screenshot 2025-06-08 at 10 36 39 AM" src="https://github.com/user-attachments/assets/1ac65fb4-7deb-483a-8846-8fd2036fe005" />
 
